@@ -1,0 +1,44 @@
+{
+    "goods": [
+        {
+            "url": "https://ae01.alicdn.com/kf/HTB1GSrRanHuK1RkSndVq6xVwpXaf/Smartphone-Xiaomi-Redmi-6A-16gb-xiaomi-mi.jpg_220x220.jpg",
+            "title": "Смартфон Xiaomi Redmi 6A 16 ГБ. Лучший подарок для молодёжи и родителей. Основная камера 13 Мп, полноэкранный дисплей.",
+            "price": "5768"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/HTB12i8BaDHuK1RkSndVq6xVwpXab/Smartphone-Xiaomi-Redmi-6A-32gb-xiaomi-mi.jpg_220x220.jpg",
+            "title": " Смартфон Xiaomi Redmi 6A 32 ГБ. Лучший подарок для молодёжи и родителей. Основная камера 13 Мп, полноэкранный дисплей, современный дизайн. Официальная гарантия 1 год",
+            "price": "7468"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/HTB1WLLha6zuK1RjSspeq6ziHVXaq/Smartphone-HUAWEI-Y6-Prime-2018.jpg_220x220.jpg",
+            "title": "Смартфон HUAWEI Y6 Prime 2018",
+            "price": "8790"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/HTB1eeTVX0fvK1RjSspfq6zzXFXa7/Smartphone-Honor-7c-Pro-mobile-phone-.jpg_220x220.jpg",
+            "title": "Cмартфон Honor 7С Pro 32 ГБ. Безрамочный экран 5, 99.",
+            "price": "10772"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/UTB8rI_MjTzIXKJkSafVq6yWgXXaf/Smartphone-Xiaomi-Redmi-5-telephone-2GB-16GB-phone.jpg_220x220.jpg",
+            "title": "Смартфон Xiaomi Redmi 5 16 ГБ с широким экраном.",
+            "price": "8443"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/UTB8f5F5on_IXKJkSalUq6yBzVXaP/Smartphone-Honor-8X-64-GB.jpg_220x220.jpg",
+            "title": "Cмартфон Honor 8X 64 ГБ. Безрамочный экран FullView 6,5“. Доставка из России от 2 дней. Новинка!【Официальная российская гарантия",
+            "price": "17990"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/HTB1jYTcaZvrK1Rjy0Feq6ATmVXaY/Smartphone-HUAWEI-P20-lite.jpg_220x220.jpg",
+            "title": "Смартфон HUAWEI P20 lite. Самый современный",
+            "price": "16990"
+        },
+        {
+            "url": "https://ae01.alicdn.com/kf/HTB1ODuKa0zvK1RkSnfoq6zMwVXaW/Smartphone-Xiaomi-Mi8-Lite-4-64GB.jpg_220x220.jpg",
+            "title": "Смартфон Xiaomi Mi8 Lite 4 + 64 ГБ, Успейте получить купон!",
+            "price": "17990"
+        }
+    ]
+}
